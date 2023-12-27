@@ -1,0 +1,13 @@
+Package: pvIcon
+Title: Project Description
+Version: 0.0.1
+Description: Project Description
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: GPL-3.0 + file LICENSE
+URL: https://github.com/Turquoise Health/pv-icon
+BugReports: https://github.com/Turquoise Health/pv-icon/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true

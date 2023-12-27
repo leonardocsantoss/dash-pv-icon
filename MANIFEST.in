@@ -1,0 +1,11 @@
+include pv_icon/pv_icon.min.js
+include pv_icon/pv_icon.min.js.map
+include pv_icon/async-*.js
+include pv_icon/async-*.js.map
+include pv_icon/*-shared.js
+include pv_icon/*-shared.js.map
+include pv_icon/metadata.json
+include pv_icon/package-info.json
+include README.md
+include LICENSE
+include package.json

@@ -1,0 +1,30 @@
+{
+  "src/lib/components/PvIcon.react.js": {
+    "description": "pv-icon is a component that renders an svg icon.",
+    "displayName": "PvIcon",
+    "methods": [],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "The ID used to identify this component in Dash callbacks."
+      },
+      "className": {
+        "type": {
+          "name": "string"
+        },
+        "required": true,
+        "description": "The className could be pv-icon, pv-icon-20, etc."
+      },
+      "href": {
+        "type": {
+          "name": "string"
+        },
+        "required": true,
+        "description": "The href is the ID of the pv-icon."
+      }
+    }
+  }
+}
